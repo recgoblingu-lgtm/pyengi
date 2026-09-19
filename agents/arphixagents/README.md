@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/arphix-agents-logo.png" alt="Arphix Agents logo" width="180" />
+  <img src="CE5B244C-6BB3-459B-AD21-BACE7EA267F6.png" alt="Arphix Agents logo" width="180" />
 
   # Arphix Agents
 
